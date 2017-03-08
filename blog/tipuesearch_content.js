@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"title":"About","text":"2017Spring 機械設計工程系網際內容管理 課程倉儲: http://github.com/mdecourse/2017springwcm 課程投影片: http://mdecourse.github.io/2017springwcm 課程網誌: http://mdecourse.github.io/2017springwcm/blog","url":"./pages/about/","tags":"misc"},{"title":"20170302 第二週","text":"四連桿機構 影片","url":"./40423146.html","tags":"Course"}]};
