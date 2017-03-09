@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423146上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-02T00:00:00+08:00</updated><entry><title>20170302 第二週</title><link href="./40423146.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-02:./40423146.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-02T00:00:00+08:00</updated><entry><title>20170302 第二週</title><link href="./40423146.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-02:./40423146.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
 
 
 &lt;p&gt;影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yO1onYoPCGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;測試中&lt;/p&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry></feed>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yO1onYoPCGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry></feed>

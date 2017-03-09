@@ -1,6 +1,6 @@
 Title: About
 
-##2017Spring 機械設計工程系網際內容管理
+##2017Spring 機械設計工程系協同產品設計實習
 
 課程倉儲: <a href="http://github.com/mdecourse/2017springwcm">http://github.com/mdecourse/2017springwcm</a>
 
