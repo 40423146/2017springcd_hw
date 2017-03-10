@@ -27,10 +27,10 @@
 <v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170108171733.8" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170108171733.8"><vh>@clean index.html</vh>
 <v t="yen.20170108171733.9" a="E"><vh>html</vh>
 <v t="yen.20170108171733.10"><vh>head</vh></v>
-<v t="yen.20170108171733.11" a="E"><vh>body</vh>
+<v t="yen.20170108171733.11"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
 <v t="yen.20170108171733.14"><vh>封面投影片</vh>
@@ -39,7 +39,7 @@
 <v t="leo.20170309180631.1"><vh>快捷鍵</vh>
 <v t="leo.20170309180631.2"><vh>快捷鍵</vh></v>
 </v>
-<v t="leo.20170309191714.1"><vh>20170222第一週</vh>
+<v t="leo.20170309191714.1"><vh>20170223第一週</vh>
 <v t="leo.20170309191714.2" a="E"><vh>內容</vh>
 <v t="leo.20170309191714.3"><vh>大綱</vh></v>
 </v>
@@ -60,8 +60,10 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
+<v t="leo.20170310101813.1"><vh>@edit 20170223.md</vh></v>
 <v t="yen.20170108171733.72"><vh>@edit 20170302.md</vh></v>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="leo.20170310102440.1"><vh>@edit 20170309.md</vh></v>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
