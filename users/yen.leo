@@ -27,7 +27,7 @@
 <v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170108171733.8"><vh>@clean index.html</vh>
+<v t="yen.20170108171733.8" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170108171733.9" a="E"><vh>html</vh>
 <v t="yen.20170108171733.10"><vh>head</vh></v>
 <v t="yen.20170108171733.11"><vh>body</vh>
