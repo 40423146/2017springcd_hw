@@ -30,7 +30,7 @@
 <v t="yen.20170108171733.8" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170108171733.9" a="E"><vh>html</vh>
 <v t="yen.20170108171733.10"><vh>head</vh></v>
-<v t="yen.20170108171733.11"><vh>body</vh>
+<v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
 <v t="yen.20170108171733.14"><vh>封面投影片</vh>
@@ -54,6 +54,11 @@
 <v t="leo.20170309193206.3"><vh>大綱</vh></v>
 </v>
 </v>
+<v t="leo.20170316110047.1"><vh>20170316第四週</vh>
+<v t="leo.20170316110047.2" a="E"><vh>內容</vh>
+<v t="leo.20170316110047.3"><vh>大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -63,6 +68,7 @@
 <v t="leo.20170310101813.1"><vh>@edit 20170223.md</vh></v>
 <v t="yen.20170108171733.72"><vh>@edit 20170302.md</vh></v>
 <v t="leo.20170310102440.1"><vh>@edit 20170309.md</vh></v>
+<v t="leo.20170316110646.1"><vh>@edit 20170316.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -147,6 +153,24 @@
 
 ##翻譯影片
 </t>
+<t tx="leo.20170316110047.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170316110047.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170316110047.3">#第四週上課筆記
+
+##在wiki寫心得
+https://mde2a2.kmol.info/cdag7/home</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
