@@ -33,29 +33,32 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170309180631.1"><vh>快捷鍵</vh>
 <v t="leo.20170309180631.2"><vh>快捷鍵</vh></v>
 </v>
 <v t="leo.20170309191714.1"><vh>20170223第一週</vh>
-<v t="leo.20170309191714.2" a="E"><vh>內容</vh>
+<v t="leo.20170309191714.2"><vh>內容</vh>
 <v t="leo.20170309191714.3"><vh>大綱</vh></v>
 </v>
 </v>
 <v t="leo.20170309192100.1"><vh>20170302第二週</vh>
-<v t="leo.20170309192100.2" a="E"><vh>內容</vh>
+<v t="leo.20170309192100.2"><vh>內容</vh>
 <v t="leo.20170309192100.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170317221309.1"><vh>影片</vh>
+<v t="leo.20170317221309.2"><vh>大綱</vh></v>
 </v>
 </v>
 <v t="leo.20170309193206.1"><vh>20170309第三週</vh>
-<v t="leo.20170309193206.2" a="E"><vh>內容</vh>
+<v t="leo.20170309193206.2"><vh>內容</vh>
 <v t="leo.20170309193206.3"><vh>大綱</vh></v>
 </v>
 </v>
 <v t="leo.20170316110047.1"><vh>20170316第四週</vh>
-<v t="leo.20170316110047.2" a="E"><vh>內容</vh>
+<v t="leo.20170316110047.2"><vh>內容</vh>
 <v t="leo.20170316110047.3"><vh>大綱</vh></v>
 </v>
 </v>
@@ -152,7 +155,8 @@
 <t tx="leo.20170309193206.3">#第三週上課筆記
 
 ##翻譯影片
-</t>
+
+&lt;iframe width="560" height="315" src="https://vimeo.com/207229488" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170316110047.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -171,6 +175,15 @@
 
 ##在wiki寫心得
 https://mde2a2.kmol.info/cdag7/home</t>
+<t tx="leo.20170317221309.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170317221309.2">##Solvespace零件繪製與組裝
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yO1onYoPCGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -344,7 +357,7 @@ vertical: body pane on the botton</t>
 ### 40423146 廖祈安 
 
 &lt;small&gt;
-Created by [40423146](http://chiamingyen.github.io/kmolab/blog/)
+Created by [2017springcd](http://mde.tw/2017springcd/blog/)
 &lt;/small&gt;
 
 [BLOG](blog/index.html)
