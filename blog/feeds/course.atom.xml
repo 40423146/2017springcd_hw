@@ -7,14 +7,16 @@
 
 &lt;h2&gt;協同產品設計實習課程 第三週&lt;/h2&gt;
 &lt;p&gt;翻譯影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://vimeo.com/207229488" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/207229488" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;內容: 
-The 2017 HyperWorks release has a lot 
+&lt;p&gt;&lt;a href="https://vimeo.com/207229488"&gt;hyperworks2&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;內容: &lt;/p&gt;
+&lt;p&gt;The 2017 HyperWorks release has a lot
 在2017年HyperWorks發行很多版本&lt;/p&gt;
-&lt;p&gt;of enhancements to the modeling and assembly capabilities 
+&lt;p&gt;of enhancements to the modeling and assembly capabilities
 對軟件的建模和組裝能力的增強&lt;/p&gt;
-&lt;p&gt;So we put in a new parts browser with a built-in part library 
+&lt;p&gt;So we put in a new parts browser with a built-in part library
 所以我們在一個新的零件瀏覽器與一個內置零件庫&lt;/p&gt;
 &lt;p&gt;The part library is a great tool for storing and loading work in progress
 零件庫是用於存儲和加載正在進行工作的一個很好的工具&lt;/p&gt;
@@ -30,11 +32,11 @@ The 2017 HyperWorks release has a lot
 所以他們可以備份到不同的版本並重新加載&lt;/p&gt;
 &lt;p&gt;And they can also build different configurations now of their models
 他們也可以建立不同的配置到他們現在的的模型&lt;/p&gt;
-&lt;p&gt;In the configuration modeler now 
+&lt;p&gt;In the configuration modeler now
 現在在配置建模器&lt;/p&gt;
 &lt;p&gt;they can import parts from part library and then group
 他們可以從零件庫導入零件然後分組&lt;/p&gt;
-&lt;p&gt;them into what we call part sets,which are 
+&lt;p&gt;them into what we call part sets,which are
 他們變成我們所說的部分集&lt;/p&gt;
 &lt;p&gt;convenient groupings of parts
 即零件方便分組&lt;/p&gt;
@@ -50,37 +52,37 @@ The 2017 HyperWorks release has a lot
 我們現在也做實例化&lt;/p&gt;
 &lt;p&gt;So if you load in a part that has
 所以如果你加載在一個部分&lt;/p&gt;
-&lt;p&gt;multiple instances through the model,we support that.
+&lt;p&gt;multiple instances through the model,we support that
 我們支持多個實例通過模型&lt;/p&gt;
 &lt;p&gt;We don't have to create multiple copies of it
 我們不必創建它的多個副本&lt;/p&gt;
-&lt;p&gt;We can actually do the instancing,which is very memory efficient.
+&lt;p&gt;We can actually do the instancing,which is very memory efficient
 我們可以做實際，這是非常有效的記憶&lt;/p&gt;
-&lt;p&gt;Also in the model building assembly 
+&lt;p&gt;Also in the model building assembly
 也在模型建築組裝&lt;/p&gt;
 &lt;p&gt;tool set is enhanced ID management as well
 工具集也是增強的ID管理&lt;/p&gt;
-&lt;p&gt;So not only can we assign IDs based on different rules 
+&lt;p&gt;So not only can we assign IDs based on different rules
 因此，我們不僅可以根據不同的規則分配ID&lt;/p&gt;
-&lt;p&gt;that you define in the software,but you can import ID systems 
+&lt;p&gt;that you define in the software,but you can import ID systems
 您可以在軟件中定義，但可以導入ID系統&lt;/p&gt;
 &lt;p&gt;form spreadsheets,XML files,databases
 形式電子表格，XML文件，數據庫&lt;/p&gt;
-&lt;p&gt;and so forth,that are then used when 
+&lt;p&gt;and so forth,that are then used when
 等等，然後在使用&lt;/p&gt;
 &lt;p&gt;it does the renumbering or the assembly of the model
 它進行重新編號或模型的組裝&lt;/p&gt;
 &lt;p&gt;it has to resolve part collisions
 它必須解決部分碰撞&lt;/p&gt;
-&lt;p&gt;Really important part of doing model assembly 
+&lt;p&gt;Really important part of doing model assembly
 做模型組裝重要的部分&lt;/p&gt;
-&lt;p&gt;is connecting all those parts together. 
+&lt;p&gt;is connecting all those parts together
 將所有這些部分連接在一起&lt;/p&gt;
-&lt;p&gt;Connectors are really vital to the overall assembly process. 
+&lt;p&gt;Connectors are really vital to the overall assembly process
 連接器對整個裝配過程至關重要&lt;/p&gt;
-&lt;p&gt;The quality of the connector that you create really 
+&lt;p&gt;The quality of the connector that you create really
 您真正創建的連接器的質量&lt;/p&gt;
-&lt;p&gt;determines the outcome of the quality 
+&lt;p&gt;determines the outcome of the quality
 確定質量的結果&lt;/p&gt;
 &lt;p&gt;of the overall assembled model as well
 對整體組裝模型&lt;/p&gt;

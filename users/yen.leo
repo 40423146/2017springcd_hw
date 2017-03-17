@@ -156,7 +156,8 @@
 
 ##翻譯影片
 
-&lt;iframe width="560" height="315" src="https://vimeo.com/207229488" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/207229488" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207229488"&gt;hyperworks2&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170316110047.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -183,6 +184,8 @@ https://mde2a2.kmol.info/cdag7/home</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20170317221309.2">##Solvespace零件繪製與組裝
+
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yO1onYoPCGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
