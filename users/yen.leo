@@ -61,6 +61,9 @@
 <v t="leo.20170316110047.2"><vh>內容</vh>
 <v t="leo.20170316110047.3"><vh>大綱</vh></v>
 </v>
+<v t="leo.20170322200914.1"><vh>影片</vh>
+<v t="leo.20170322200914.2"><vh>大綱</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -187,6 +190,17 @@ https://mde2a2.kmol.info/cdag7/home</t>
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yO1onYoPCGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170322200914.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170322200914.2">##Solvespace one_link繪製
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/q_CyzrqMEPw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
