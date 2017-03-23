@@ -33,7 +33,7 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170309180631.1"><vh>快捷鍵</vh>
@@ -68,6 +68,11 @@
 <v t="leo.20170322230348.2"><vh>大綱</vh></v>
 </v>
 </v>
+<v t="leo.20170323090719.1"><vh>20170323第五週</vh>
+<v t="leo.20170323090719.2"><vh>內容</vh>
+<v t="leo.20170323090719.3"><vh>大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -78,6 +83,7 @@
 <v t="yen.20170108171733.72"><vh>@edit 20170302.md</vh></v>
 <v t="leo.20170310102440.1"><vh>@edit 20170309.md</vh></v>
 <v t="leo.20170316110646.1"><vh>@edit 20170316.md</vh></v>
+<v t="leo.20170323101918.1"><vh>@edit 20170323.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -215,6 +221,22 @@ https://mde2a2.kmol.info/cdag7/home</t>
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9UxPvOS89yw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170323090719.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170323090719.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170323090719.3">#第五週上課筆記
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
