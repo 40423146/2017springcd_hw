@@ -43,6 +43,12 @@
 <v t="leo.20170309191714.2"><vh>內容</vh>
 <v t="leo.20170309191714.3"><vh>大綱</vh></v>
 </v>
+<v t="leo.20170324221412.1"><vh>影片</vh>
+<v t="leo.20170324221412.2"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170324221524.1"><vh>影片</vh>
+<v t="leo.20170324221524.2"><vh>大綱</vh></v>
+</v>
 </v>
 <v t="leo.20170309192100.1"><vh>20170302第二週</vh>
 <v t="leo.20170309192100.2"><vh>內容</vh>
@@ -55,6 +61,9 @@
 <v t="leo.20170309193206.1"><vh>20170309第三週</vh>
 <v t="leo.20170309193206.2"><vh>內容</vh>
 <v t="leo.20170309193206.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170324195323.1"><vh>內容</vh>
+<v t="leo.20170324195323.2"><vh>大綱</vh></v>
 </v>
 </v>
 <v t="leo.20170316110047.1"><vh>20170316第四週</vh>
@@ -237,6 +246,45 @@ https://mde2a2.kmol.info/cdag7/home</t>
 </t>
 <t tx="leo.20170323090719.3">#第五週上課筆記
 </t>
+<t tx="leo.20170324195323.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170324195323.2">#翻譯心得:
+是由40423141翻譯的，也讓我們練習英文，針對專有名詞找延伸資料
+
+&lt;p&gt;&lt;a href="https://vimeo.com/207229488"&gt;第三週網誌&lt;/a&gt;&lt;/p&gt;
+
+</t>
+<t tx="leo.20170324221412.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170324221412.2">##Onshape零件繪製
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fpQ7Dlqomwk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170324221524.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20170324221524.2">##Onshape零件組裝
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bOZeNMrcTr0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
