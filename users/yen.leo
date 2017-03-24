@@ -260,7 +260,7 @@ https://mde2a2.kmol.info/cdag7/home</t>
 <t tx="leo.20170324195323.2">#翻譯心得:
 是由40423141翻譯的，也讓我們練習英文，針對專有名詞找延伸資料
 
-&lt;p&gt;&lt;a href="https://vimeo.com/207229488"&gt;第三週網誌&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423146.github.io/2017springcd_hw/blog/2017spring-cd-W3.html"&gt;第三週網誌&lt;/a&gt;&lt;/p&gt;
 
 </t>
 <t tx="leo.20170324221412.1">&lt;section data-markdown&gt;
