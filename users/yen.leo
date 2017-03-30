@@ -40,26 +40,26 @@
 <v t="leo.20170309180631.2"><vh>快捷鍵</vh></v>
 </v>
 <v t="leo.20170309191714.1"><vh>20170223第一週</vh>
-<v t="leo.20170309191714.2"><vh>內容</vh>
+<v t="leo.20170309191714.2" a="E"><vh>內容</vh>
 <v t="leo.20170309191714.3"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170324221412.1"><vh>影片</vh>
+<v t="leo.20170324221412.1" a="E"><vh>影片</vh>
 <v t="leo.20170324221412.2"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170324221524.1"><vh>影片</vh>
+<v t="leo.20170324221524.1" a="E"><vh>影片</vh>
 <v t="leo.20170324221524.2"><vh>大綱</vh></v>
 </v>
 </v>
 <v t="leo.20170309192100.1"><vh>20170302第二週</vh>
-<v t="leo.20170309192100.2"><vh>內容</vh>
+<v t="leo.20170309192100.2" a="E"><vh>內容</vh>
 <v t="leo.20170309192100.3"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170317221309.1"><vh>影片</vh>
+<v t="leo.20170317221309.1" a="E"><vh>影片</vh>
 <v t="leo.20170317221309.2"><vh>大綱</vh></v>
 </v>
 </v>
 <v t="leo.20170309193206.1"><vh>20170309第三週</vh>
-<v t="leo.20170309193206.2"><vh>內容</vh>
+<v t="leo.20170309193206.2" a="E"><vh>內容</vh>
 <v t="leo.20170309193206.3"><vh>大綱</vh></v>
 </v>
 <v t="leo.20170324195323.1"><vh>內容</vh>
@@ -67,19 +67,24 @@
 </v>
 </v>
 <v t="leo.20170316110047.1"><vh>20170316第四週</vh>
-<v t="leo.20170316110047.2"><vh>內容</vh>
+<v t="leo.20170316110047.2" a="E"><vh>內容</vh>
 <v t="leo.20170316110047.3"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170322200914.1"><vh>影片</vh>
+<v t="leo.20170322200914.1" a="E"><vh>影片</vh>
 <v t="leo.20170322200914.2"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170322230348.1"><vh>影片</vh>
+<v t="leo.20170322230348.1" a="E"><vh>影片</vh>
 <v t="leo.20170322230348.2"><vh>大綱</vh></v>
 </v>
 </v>
 <v t="leo.20170323090719.1"><vh>20170323第五週</vh>
-<v t="leo.20170323090719.2"><vh>內容</vh>
+<v t="leo.20170323090719.2" a="E"><vh>內容</vh>
 <v t="leo.20170323090719.3"><vh>大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170330085534.1"><vh>20170330第六週</vh>
+<v t="leo.20170330085534.2" a="E"><vh>內容</vh>
+<v t="leo.20170330085534.3"><vh>大綱</vh></v>
 </v>
 </v>
 </v>
@@ -93,6 +98,7 @@
 <v t="leo.20170310102440.1"><vh>@edit 20170309.md</vh></v>
 <v t="leo.20170316110646.1"><vh>@edit 20170316.md</vh></v>
 <v t="leo.20170323101918.1"><vh>@edit 20170323.md</vh></v>
+<v t="leo.20170330085434.1"><vh>@edit 20170330.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -138,7 +144,7 @@
 </t>
 <t tx="leo.20170309191714.3">#第一週上課筆記
 
-##利用 Solvespace 與 Onshape 組立單軸旋轉連桿系統、四連桿系統與多連桿系統</t>
+利用 Solvespace 與 Onshape 組立單軸旋轉連桿系統、四連桿系統與多連桿系統</t>
 <t tx="leo.20170309192100.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -155,10 +161,7 @@
 </t>
 <t tx="leo.20170309192100.3">#第二週上課筆記
 
-##協同模式完成Solvespace 與 Onshape 單軸旋轉連桿系統與四連桿系統
-
-
-##ipconfig設定</t>
+協同模式完成Solvespace 與 Onshape 單軸旋轉連桿系統與四連桿系統以及 ipconfig 設定</t>
 <t tx="leo.20170309193206.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -175,7 +178,7 @@
 </t>
 <t tx="leo.20170309193206.3">#第三週上課筆記
 
-##翻譯影片
+翻譯影片
 
 &lt;iframe src="https://player.vimeo.com/video/207229488" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/207229488"&gt;hyperworks2&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
@@ -195,7 +198,8 @@
 </t>
 <t tx="leo.20170316110047.3">#第四週上課筆記
 
-##在wiki寫心得
+建立 cdbg7 線上 Fossil SCM 倉儲
+
 https://mde2a2.kmol.info/cdag7/home</t>
 <t tx="leo.20170317221309.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -245,6 +249,7 @@ https://mde2a2.kmol.info/cdag7/home</t>
 						
 </t>
 <t tx="leo.20170323090719.3">#第五週上課筆記
+在v-rep設定單連桿運動
 </t>
 <t tx="leo.20170324195323.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -285,6 +290,22 @@ https://mde2a2.kmol.info/cdag7/home</t>
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bOZeNMrcTr0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170330085534.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170330085534.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170330085534.3">#第六週上課筆記
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
