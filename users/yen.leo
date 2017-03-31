@@ -78,13 +78,22 @@
 </v>
 </v>
 <v t="leo.20170323090719.1"><vh>20170323第五週</vh>
-<v t="leo.20170323090719.2" a="E"><vh>內容</vh>
+<v t="leo.20170323090719.2"><vh>內容</vh>
 <v t="leo.20170323090719.3"><vh>大綱</vh></v>
 </v>
 </v>
-<v t="leo.20170330085534.1"><vh>20170330第六週</vh>
+<v t="leo.20170330085534.1" a="E"><vh>20170330第六週</vh>
 <v t="leo.20170330085534.2" a="E"><vh>內容</vh>
 <v t="leo.20170330085534.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170331135511.1" a="E"><vh>影片</vh>
+<v t="leo.20170331135511.2"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170331135515.1" a="E"><vh>影片</vh>
+<v t="leo.20170331135515.2"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170331135550.1" a="E"><vh>影片</vh>
+<v t="leo.20170331135550.2"><vh>大綱</vh></v>
 </v>
 </v>
 </v>
@@ -305,7 +314,52 @@ https://mde2a2.kmol.info/cdag7/home</t>
 						
 </t>
 <t tx="leo.20170330085534.3">#第六週上課筆記
+V-rep 進行運動模擬</t>
+<t tx="leo.20170331135511.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
 </t>
+<t tx="leo.20170331135511.2">#第六週上課筆記
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zSwzX6S6JuE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170331135515.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170331135515.2">#第六週上課筆記
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PLJNTD3p6aE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170331135550.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170331135550.2">#第六週上課筆記
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CixU-Ca8QlI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
