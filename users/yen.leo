@@ -100,8 +100,14 @@
 </v>
 </v>
 <v t="leo.20170406083226.1"><vh>20170406第七週</vh>
-<v t="leo.20170406083226.2"><vh>內容</vh>
+<v t="leo.20170406083226.2" a="E"><vh>內容</vh>
 <v t="leo.20170406083226.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170407104942.1" a="E"><vh>影片</vh>
+<v t="leo.20170407104942.2"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170407104950.1" a="E"><vh>影片</vh>
+<v t="leo.20170407104950.2"><vh>大綱</vh></v>
 </v>
 </v>
 </v>
@@ -399,6 +405,36 @@ V-rep 進行運動模擬</t>
 						
 </t>
 <t tx="leo.20170406083226.3">#第七週上課筆記</t>
+<t tx="leo.20170407104942.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170407104942.2">#第七週上課筆記
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hrk2liTa4Pk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170407104950.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170407104950.2">#第七週上課筆記
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUx1ad5QnOc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
