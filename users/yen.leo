@@ -62,7 +62,7 @@
 <v t="leo.20170309193206.2" a="E"><vh>內容</vh>
 <v t="leo.20170309193206.3"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170324195323.1"><vh>內容</vh>
+<v t="leo.20170324195323.1" a="E"><vh>內容</vh>
 <v t="leo.20170324195323.2"><vh>大綱</vh></v>
 </v>
 </v>
@@ -78,10 +78,10 @@
 </v>
 </v>
 <v t="leo.20170323090719.1"><vh>20170323第五週</vh>
-<v t="leo.20170323090719.2"><vh>內容</vh>
+<v t="leo.20170323090719.2" a="E"><vh>內容</vh>
 <v t="leo.20170323090719.3"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170331153446.1"><vh>影片</vh>
+<v t="leo.20170331153446.1" a="E"><vh>影片</vh>
 <v t="leo.20170331153446.2"><vh>大綱</vh></v>
 </v>
 </v>
@@ -116,6 +116,11 @@
 <v t="leo.20170413000752.2"><vh>大綱</vh></v>
 </v>
 </v>
+<v t="leo.20170413210549.1"><vh>20170413第八週</vh>
+<v t="leo.20170413210549.2" a="E"><vh>內容</vh>
+<v t="leo.20170413210549.3"><vh>大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -129,6 +134,7 @@
 <v t="leo.20170323101918.1"><vh>@edit 20170323.md</vh></v>
 <v t="leo.20170330085434.1"><vh>@edit 20170330.md</vh></v>
 <v t="leo.20170406085056.1"><vh>@edit 20170406.md</vh></v>
+<v t="leo.20170413210715.1"><vh>@edit 20170413.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -238,7 +244,7 @@ https://mde2a2.kmol.info/cdag7/home</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20170317221309.2">##Solvespace零件繪製與組裝
+<t tx="leo.20170317221309.2">#Solvespace零件繪製與組裝
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yO1onYoPCGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -260,8 +266,7 @@ https://mde2a2.kmol.info/cdag7/home</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20170322230348.2">##導入v-rep
-
+<t tx="leo.20170322230348.2">#導入v-rep
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9UxPvOS89yw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170323090719.1">&lt;section&gt;
@@ -305,7 +310,7 @@ https://mde2a2.kmol.info/cdag7/home</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20170324221412.2">##Onshape零件繪製
+<t tx="leo.20170324221412.2">#Onshape零件繪製
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fpQ7Dlqomwk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -316,7 +321,7 @@ https://mde2a2.kmol.info/cdag7/home</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20170324221524.2">##Onshape零件組裝
+<t tx="leo.20170324221524.2">#Onshape零件組裝
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bOZeNMrcTr0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -347,7 +352,7 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170331135511.2">#第六週上課筆記
+<t tx="leo.20170331135511.2">#Onshape 四連桿繪製
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zSwzX6S6JuE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -362,7 +367,7 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170331135515.2">#第六週上課筆記
+<t tx="leo.20170331135515.2">#Onshape 四連桿組立
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PLJNTD3p6aE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -377,8 +382,7 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170331135550.2">#第六週上課筆記
-
+<t tx="leo.20170331135550.2">#四連桿導入 V-rep
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CixU-Ca8QlI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170331153446.1">&lt;section data-markdown&gt;
@@ -392,7 +396,7 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170331153446.2">#第六週上課筆記
+<t tx="leo.20170331153446.2">#單連桿導入 V-rep
 
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jKEgXGuFcGA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
@@ -410,7 +414,8 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170406083226.3">#第七週上課筆記</t>
+<t tx="leo.20170406083226.3">#第七週上課筆記
+在v-rep設定八連桿運動</t>
 <t tx="leo.20170407104942.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -422,10 +427,9 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170407104942.2">#第七週上課筆記
+<t tx="leo.20170407104942.2">#八連桿運動模擬
 
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hrk2liTa4Pk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4P4Il2t7Ir4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20170407104950.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -437,10 +441,10 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170407104950.2">#第七週上課筆記
+<t tx="leo.20170407104950.2">#Onshape 八連桿繪製
 
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUx1ad5QnOc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hrk2liTa4Pk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20170413000632.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -452,10 +456,10 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170413000632.2">#第七週上課筆記
+<t tx="leo.20170413000632.2">#Onshape 八連桿組立
 
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/n1c8C8TyJjA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YUx1ad5QnOc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20170413000752.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -467,10 +471,25 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170413000752.2">#第七週上課筆記
+<t tx="leo.20170413000752.2">#導入 V-rep
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/n1c8C8TyJjA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170413210549.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170413210549.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4P4Il2t7Ir4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+
+						
+</t>
+<t tx="leo.20170413210549.3">#第八週上課筆記
+期中自評 小組互評</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
