@@ -121,6 +121,11 @@
 <v t="leo.20170413210549.3"><vh>大綱</vh></v>
 </v>
 </v>
+<v t="leo.20170423220236.1" a="E"><vh>20170420第九週</vh>
+<v t="leo.20170423220236.2" a="E"><vh>內容</vh>
+<v t="leo.20170423220236.3"><vh>大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -135,6 +140,7 @@
 <v t="leo.20170330085434.1"><vh>@edit 20170330.md</vh></v>
 <v t="leo.20170406085056.1"><vh>@edit 20170406.md</vh></v>
 <v t="leo.20170413210715.1"><vh>@edit 20170413.md</vh></v>
+<v t="leo.20170423220527.1"><vh>@edit 20170420.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -490,6 +496,25 @@ V-rep 進行運動模擬</t>
 </t>
 <t tx="leo.20170413210549.3">#第八週上課筆記
 期中自評 小組互評</t>
+<t tx="leo.20170423220236.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170423220236.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170423220236.3">#第九週上課筆記
+
+分析四連桿軌跡圖
+
+使用 OnShape完成四連桿行走機構</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

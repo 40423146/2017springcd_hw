@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-13T00:00:00+08:00</updated><entry><title>20170413 第八週</title><link href="./2017spring-cd-W8.html" rel="alternate"></link><published>2017-04-13T00:00:00+08:00</published><updated>2017-04-13T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-13:./2017spring-cd-W8.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-20T00:00:00+08:00</updated><entry><title>20170420 第九週</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-20T00:00:00+08:00</published><updated>2017-04-20T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-20:./2017spring-cd-W9.html</id><summary type="html">&lt;p&gt;分析四連桿軌跡圖&lt;/p&gt;
+&lt;p&gt;使用 OnShape 完成四連桿行走機構&lt;/p&gt;
+
+
+&lt;h2&gt;協同產品設計實習課程 第九週&lt;/h2&gt;
+&lt;p&gt;分析四連桿軌跡圖&lt;/p&gt;
+&lt;p&gt;使用 OnShape 完成四連桿行走機構&lt;/p&gt;</summary><category term="syllabus"></category><category term="w9"></category></entry><entry><title>20170413 第八週</title><link href="./2017spring-cd-W8.html" rel="alternate"></link><published>2017-04-13T00:00:00+08:00</published><updated>2017-04-13T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-13:./2017spring-cd-W8.html</id><summary type="html">&lt;p&gt;期中自評&lt;/p&gt;
+
 
 &lt;h2&gt;協同產品設計實習課程 第八週&lt;/h2&gt;
 &lt;p&gt;期中自評&lt;/p&gt;</summary><category term="syllabus"></category><category term="w8"></category></entry><entry><title>20170406 第七週</title><link href="./2017spring-cd-W7.html" rel="alternate"></link><published>2017-04-06T00:00:00+08:00</published><updated>2017-04-06T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-06:./2017spring-cd-W7.html</id><summary type="html">&lt;p&gt;利用fossil對倉儲進行管理練習&lt;/p&gt;
