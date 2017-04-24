@@ -121,9 +121,12 @@
 <v t="leo.20170413210549.3"><vh>大綱</vh></v>
 </v>
 </v>
-<v t="leo.20170423220236.1" a="E"><vh>20170420第九週</vh>
-<v t="leo.20170423220236.2" a="E"><vh>內容</vh>
+<v t="leo.20170423220236.1"><vh>20170420第九週</vh>
+<v t="leo.20170423220236.2"><vh>內容</vh>
 <v t="leo.20170423220236.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170424090959.1"><vh>內容</vh>
+<v t="leo.20170424090959.2"><vh>大綱</vh></v>
 </v>
 </v>
 </v>
@@ -515,6 +518,20 @@ V-rep 進行運動模擬</t>
 分析四連桿軌跡圖
 
 使用 OnShape完成四連桿行走機構</t>
+<t tx="leo.20170424090959.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170424090959.2">使用 OnShape完成四連桿行走機構
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EORo8OShl58" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
