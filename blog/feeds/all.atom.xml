@@ -12,9 +12,9 @@
 
 &lt;p&gt;分組協同零件展示&lt;/p&gt;
 &lt;p&gt;&lt;link href="./../work/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
-&lt;script src="./../work/madeleine/src/lib/stats.js"&gt;&lt;/script&gt;
-&lt;script src="./../work/madeleine/src/lib/detector.js"&gt;&lt;/script&gt;
-&lt;script src="./../work/madeleine/src/lib/three.min.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/stats.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/detector.js"&gt;&lt;/script&gt;
+&lt;script src="./../work/madeleine/src/three.min.js"&gt;&lt;/script&gt;
 &lt;script src="./../work/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;div id="target" class="madeleine"&gt;&lt;/div&gt;
 
