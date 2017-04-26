@@ -10,10 +10,7 @@
 &lt;p&gt;使用 OnShape 完成四連桿行走機構&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EORo8OShl58" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;table class="codehilitetable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="codehilite"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;分組協同零件展示
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-
+&lt;p&gt;分組協同零件展示&lt;/p&gt;
 &lt;p&gt;&lt;link href="./../work/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
 &lt;script src="./../work/madeleine/src/lib/stats.js"&gt;&lt;/script&gt;
 &lt;script src="./../work/madeleine/src/lib/detector.js"&gt;&lt;/script&gt;
