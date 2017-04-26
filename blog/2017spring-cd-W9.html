@@ -170,12 +170,15 @@
 <p>使用 OnShape 完成四連桿行走機構</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EORo8OShl58" frameborder="0" allowfullscreen></iframe>
 
-<p>分組協同零件展示</p>
-<p><link href="./../Madeleine.js-master/madeleine/src/css/Madeleine.css" rel="stylesheet">
-<script src="./../Madeleine.js-master/madeleine/src/lib/stats.js"></script>
-<script src="./../Madeleine.js-master/madeleine/src/lib/detector.js"></script>
-<script src="./../Madeleine.js-master/madeleine/src/lib/three.min.js"></script>
-<script src="./../Madeleine.js-master/madeleine/src/Madeleine.js"></script></p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>分組協同零件展示
+</pre></div>
+</td></tr></table>
+
+<p><link href="./../Madeleine/madeleine/src/css/Madeleine.css" rel="stylesheet">
+<script src="./../Madeleine/madeleine/src/lib/stats.js"></script>
+<script src="./../Madeleine/madeleine/src/lib/detector.js"></script>
+<script src="./../Madeleine/madeleine/src/lib/three.min.js"></script>
+<script src="./../Madeleine/madeleine/src/Madeleine.js"></script></p>
 <div id="target" class="madeleine"></div>
 
 <script>
@@ -183,7 +186,7 @@ window.onload = function(){
     var madeleine = new Madeleine({
       target: 'target', // target div id
       data: './../data/Fourbar.stl', // data path
-      path: './../Madeleine.js-master/madeleine/src/' // path to source directory from current html file
+      path: './../Madeleine/madeleine/src/' // path to source directory from current html file
     });
 }; 
 </script>
