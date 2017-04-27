@@ -1,7 +1,7 @@
 import sys
-sys.path.append("./m")
-import add
+sys.path.append("./m1")
+import minus
 
-sum = add.add(7,7)
+sum = minus.minus(7,7)
 
 print(sum)
