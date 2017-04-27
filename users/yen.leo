@@ -129,6 +129,11 @@
 <v t="leo.20170424090959.2"><vh>大綱</vh></v>
 </v>
 </v>
+<v t="leo.20170427114540.1"><vh>20170427第十週</vh>
+<v t="leo.20170427114540.2"><vh>內容</vh>
+<v t="leo.20170427114540.3"><vh>大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -144,6 +149,7 @@
 <v t="leo.20170406085056.1"><vh>@edit 20170406.md</vh></v>
 <v t="leo.20170413210715.1"><vh>@edit 20170413.md</vh></v>
 <v t="leo.20170423220527.1"><vh>@edit 20170420.md</vh></v>
+<v t="leo.20170427105111.1"><vh>@edit 20170427.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -532,6 +538,21 @@ V-rep 進行運動模擬</t>
 <t tx="leo.20170424090959.2">使用 OnShape完成四連桿行走機構
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EORo8OShl58" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170427114540.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170427114540.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427114540.3">#第十週上課筆記</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
