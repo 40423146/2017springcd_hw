@@ -38,7 +38,7 @@ print(sum)
 &lt;p&gt;3.乘法 &lt;/p&gt;
 &lt;pre class="brush: python"&gt;
 乘法
-def cro(a, b):
+def cross(a, b):
     return a*b
 
 乘法運算  
