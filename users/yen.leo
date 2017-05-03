@@ -731,12 +731,9 @@ Created by [2017Springcd](http://mde.tw/2017springcd/blog/)
 
 [BLOG](blog/index.html)
 
-[YouTube](https://www.youtube.com/channel/UCFHfS2xXi7SqCBwyZhxa5nw)
+[Vimeo](https://vimeo.com/user65946581)
 
-
-
-
-</t>
+[YouTube](https://www.youtube.com/channel/UCFHfS2xXi7SqCBwyZhxa5nw)</t>
 <t tx="yen.20170108171733.2">@language python
 import os
 #os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")

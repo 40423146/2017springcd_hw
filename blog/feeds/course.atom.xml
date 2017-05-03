@@ -3,29 +3,69 @@
 
 
 &lt;h2&gt;協同產品設計實習課程 第十週&lt;/h2&gt;
-&lt;h2&gt;+運算&lt;/h2&gt;
+&lt;p&gt;1.加法&lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+加法
+def add(a, b):
+    return a+b
 
-&lt;p&gt;def add (a,b):&lt;/p&gt;
+加法運算  
+import sys
+sys.path.append("./m1")
+import add
 
-&lt;p&gt;return a+b&lt;/p&gt;
+sum = add.add(a, b)
+print(sum)
 
-&lt;h2&gt;-運算&lt;/h2&gt;
+&lt;/pre&gt;
 
-&lt;p&gt;def div (a,b):&lt;/p&gt;
+&lt;p&gt;2減法 &lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+減法
+def minus(a, b):
+    return a-b
 
-&lt;p&gt;return a-b&lt;/p&gt;
+減法運算  
+import sys
+sys.path.append("./m1")
+import minus
 
-&lt;h2&gt;*運算&lt;/h2&gt;
+sum = minus.minus(a, b)
+print(sum)
 
-&lt;p&gt;def cross (a,b):&lt;/p&gt;
+&lt;/pre&gt;
 
-&lt;p&gt;return a*b&lt;/p&gt;
+&lt;p&gt;3.乘法 &lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+乘法
+def cro(a, b):
+    return a*b
 
-&lt;h2&gt;/運算&lt;/h2&gt;
+乘法運算  
+import sys
+sys.path.append("./m1")
+import cross
 
-&lt;p&gt;def minus (a,b):&lt;/p&gt;
+sum = cross.cross(a, b)
+print(sum)
 
-&lt;p&gt;return a/b&lt;/p&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;4.除法&lt;/p&gt;
+&lt;pre class="brush: python"&gt;
+除法
+def div(a, b):
+    return a/b
+
+除法運算  
+import sys
+sys.path.append("./m1")
+import exc 
+
+sum = div.div(a,b)
+print(sum)
+
+&lt;/pre&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
