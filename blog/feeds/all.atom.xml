@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-27T00:00:00+08:00</updated><entry><title>20170427 第十週</title><link href="./2017spring-cd-W10.html" rel="alternate"></link><published>2017-04-27T00:00:00+08:00</published><updated>2017-04-27T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-27:./2017spring-cd-W10.html</id><summary type="html">&lt;p&gt;運算&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-27T00:00:00+08:00</updated><entry><title>20170427 第十週</title><link href="./2017spring-cd-W10.html" rel="alternate"></link><published>2017-04-27T00:00:00+08:00</published><updated>2017-04-27T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-27:./2017spring-cd-W10.html</id><summary type="html">&lt;p&gt;加減乘除運算&lt;/p&gt;
 
 
 &lt;h2&gt;協同產品設計實習課程 第十週&lt;/h2&gt;
@@ -19,6 +19,8 @@ print(sum)
 
 &lt;/pre&gt;
 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ES-tNryQ4oM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;p&gt;2減法 &lt;/p&gt;
 &lt;pre class="brush: python"&gt;
 減法
@@ -34,6 +36,8 @@ sum = minus.minus(a, b)
 print(sum)
 
 &lt;/pre&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_5nqGaIa9cQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;3.乘法 &lt;/p&gt;
 &lt;pre class="brush: python"&gt;
@@ -51,6 +55,8 @@ print(sum)
 
 &lt;/pre&gt;
 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8MCETHWWo2c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;p&gt;4.除法&lt;/p&gt;
 &lt;pre class="brush: python"&gt;
 除法
@@ -60,13 +66,14 @@ def div(a, b):
 除法運算  
 import sys
 sys.path.append("./m1")
-import exc 
+import div 
 
 sum = div.div(a,b)
 print(sum)
 
 &lt;/pre&gt;
 
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p26d9BmPAv0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script src="../data/brython.js"&gt;&lt;/script&gt;
