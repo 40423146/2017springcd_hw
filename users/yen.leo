@@ -129,9 +129,21 @@
 <v t="leo.20170424090959.2"><vh>大綱</vh></v>
 </v>
 </v>
-<v t="leo.20170427114540.1"><vh>20170427第十週</vh>
-<v t="leo.20170427114540.2"><vh>內容</vh>
+<v t="leo.20170427114540.1" a="E"><vh>20170427第十週</vh>
+<v t="leo.20170427114540.2" a="E"><vh>內容</vh>
 <v t="leo.20170427114540.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170503211419.1" a="E"><vh>內容</vh>
+<v t="leo.20170503211419.2"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170503211422.1" a="E"><vh>內容</vh>
+<v t="leo.20170503211422.2"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170503211426.1" a="E"><vh>內容</vh>
+<v t="leo.20170503211426.2"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170503211430.1" a="E"><vh>內容</vh>
+<v t="leo.20170503211430.2"><vh>大綱</vh></v>
 </v>
 </v>
 </v>
@@ -552,7 +564,72 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170427114540.3">#第十週上課筆記</t>
+<t tx="leo.20170427114540.3">#第十週上課筆記
+加減乘除運算</t>
+<t tx="leo.20170503211419.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170503211419.2">加法運算
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ES-tNryQ4oM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170503211422.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170503211422.2">減法運算
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_5nqGaIa9cQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170503211426.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170503211426.2">乘法運算
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8MCETHWWo2c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170503211430.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170503211430.2">除法運算
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p26d9BmPAv0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
