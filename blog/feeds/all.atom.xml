@@ -73,34 +73,7 @@ print(sum)
 
 &lt;/pre&gt;
 
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p26d9BmPAv0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;!-- 導入 Brython 標準程式庫 --&gt;
-
-&lt;script src="../data/brython.js"&gt;&lt;/script&gt;
-
-&lt;!-- &lt;script src="../data/brython_stdlib"&gt;&lt;/script&gt;--&gt;
-
-&lt;!-- 啟動 Brython --&gt;
-
-&lt;script&gt;
-window.onload=function(){
-// 設定 data/py 為共用程式路徑
-brython({debug:1, pythonpath:['./../data/py']});
-}
-&lt;/script&gt;
-
-&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
-
-&lt;div id="container" width="600" height="400"&gt;&lt;/div&gt;
-
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-from browser import html
-import math
-container = doc['container']
-degree = math.pi/180
-a = input('give me a')
-container&lt;=str(math.cos(60*degree)+float(a))</summary><category term="syllabus"></category><category term="w"></category></entry><entry><title>20170420 第九週</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-20T00:00:00+08:00</published><updated>2017-04-20T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-20:./2017spring-cd-W9.html</id><summary type="html">&lt;p&gt;期中作業&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p26d9BmPAv0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w"></category></entry><entry><title>20170420 第九週</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-20T00:00:00+08:00</published><updated>2017-04-20T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-20:./2017spring-cd-W9.html</id><summary type="html">&lt;p&gt;期中作業&lt;/p&gt;
 &lt;p&gt;分析四連桿軌跡圖&lt;/p&gt;
 &lt;p&gt;使用 OnShape 完成四連桿行走機構&lt;/p&gt;
 

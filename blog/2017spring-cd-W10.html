@@ -226,11 +226,7 @@ def div(a, b):
 除法運算  
 import sys
 sys.path.append("./m1")
-<<<<<<< HEAD
 import div 
-=======
-import div
->>>>>>> 53b912ff3ddd7433ed8acba1e586d7bf1d5dbcf7
 
 sum = div.div(a,b)
 print(sum)
@@ -238,33 +234,6 @@ print(sum)
 </pre>
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/p26d9BmPAv0" frameborder="0" allowfullscreen></iframe></p>
-<!-- 導入 Brython 標準程式庫 -->
-
-<script src="../data/brython.js"></script>
-
-<!-- <script src="../data/brython_stdlib"></script>-->
-
-<!-- 啟動 Brython -->
-
-<script>
-window.onload=function(){
-// 設定 data/py 為共用程式路徑
-brython({debug:1, pythonpath:['./../data/py']});
-}
-</script>
-
-<!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
-
-<div id="container" width="600" height="400"></div>
-
-<script type="text/python3">
-from browser import document as doc
-from browser import html
-import math
-container = doc['container']
-degree = math.pi/180
-a = input('give me a')
-container<=str(math.cos(60*degree)+float(a))
             </div>
             <!-- /.entry-content -->
         </article>
