@@ -86,19 +86,19 @@ print(sum)
 
 &lt;p&gt;分組協同零件展示&lt;/p&gt;
 
-&lt;p&gt;&lt;link href="./../work/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
-&lt;script src="./../work/madeleine/src/stats.js"&gt;&lt;/script&gt;
-&lt;script src="./../work/madeleine/src/detector.js"&gt;&lt;/script&gt;
-&lt;script src="./../work/madeleine/src/three.min.js"&gt;&lt;/script&gt;
-&lt;script src="./../work/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;link href="./../data/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
+&lt;script src="./../data/madeleine/src/stats.js"&gt;&lt;/script&gt;
+&lt;script src="./../data/madeleine/src/detector.js"&gt;&lt;/script&gt;
+&lt;script src="./../data/madeleine/src/three.min.js"&gt;&lt;/script&gt;
+&lt;script src="./../data/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;div id="target" class="madeleine"&gt;&lt;/div&gt;
 
 &lt;script&gt;
 window.onload = function(){
     var madeleine = new Madeleine({
       target: 'target', // target div id
-      data: './../data/Fourbar1.stl', // data path
-      path: './../work/madeleine/src/' // path to source directory from current html file
+      data: './../data/w9/Fourbar1.stl', // data path
+      path: './../dara/madeleine/src/' // path to source directory from current html file
     });
 }; 
 &lt;/script&gt;
