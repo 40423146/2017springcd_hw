@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-27T00:00:00+08:00</updated><entry><title>20170427 第十週</title><link href="./2017spring-cd-W10.html" rel="alternate"></link><published>2017-04-27T00:00:00+08:00</published><updated>2017-04-27T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-27:./2017spring-cd-W10.html</id><summary type="html">&lt;p&gt;加減乘除運算&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-04T00:00:00+08:00</updated><entry><title>20170504 第十一週</title><link href="./2017spring-cd-W11.html" rel="alternate"></link><published>2017-05-04T00:00:00+08:00</published><updated>2017-05-04T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-05-04:./2017spring-cd-W11.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;協同產品設計實習課程 第十一週&lt;/h2&gt;</summary><category term="syllabus"></category><category term="w11"></category></entry><entry><title>20170427 第十週</title><link href="./2017spring-cd-W10.html" rel="alternate"></link><published>2017-04-27T00:00:00+08:00</published><updated>2017-04-27T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-27:./2017spring-cd-W10.html</id><summary type="html">&lt;p&gt;加減乘除運算&lt;/p&gt;
 
 
 &lt;h2&gt;協同產品設計實習課程 第十週&lt;/h2&gt;
@@ -73,7 +75,7 @@ print(sum)
 
 &lt;/pre&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p26d9BmPAv0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w"></category></entry><entry><title>20170420 第九週</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-20T00:00:00+08:00</published><updated>2017-04-20T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-20:./2017spring-cd-W9.html</id><summary type="html">&lt;p&gt;期中作業&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/p26d9BmPAv0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w10"></category></entry><entry><title>20170420 第九週</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-20T00:00:00+08:00</published><updated>2017-04-20T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-04-20:./2017spring-cd-W9.html</id><summary type="html">&lt;p&gt;期中作業&lt;/p&gt;
 &lt;p&gt;分析四連桿軌跡圖&lt;/p&gt;
 &lt;p&gt;使用 OnShape 完成四連桿行走機構&lt;/p&gt;
 
