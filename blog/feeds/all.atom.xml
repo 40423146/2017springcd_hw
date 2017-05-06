@@ -100,7 +100,7 @@ window.onload = function(){
     var madeleine = new Madeleine({
       target: 'target', // target div id
       data: './../data/w9/Fourbar1.stl', // data path
-      path: './../dara/madeleine/src/' // path to source directory from current html file
+      path: './../data/madeleine/src/' // path to source directory from current html file
     });
 }; 
 &lt;/script&gt;
