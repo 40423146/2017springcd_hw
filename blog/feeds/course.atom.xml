@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-11T00:00:00+08:00</updated><entry><title>20170511 第十二週</title><link href="./2017spring-cd-W12.html" rel="alternate"></link><published>2017-05-11T00:00:00+08:00</published><updated>2017-05-11T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-05-11:./2017spring-cd-W12.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-11T00:00:00+08:00</updated><entry><title>20170511 第十二週</title><link href="./2017spring-cd-W12.html" rel="alternate"></link><published>2017-05-11T00:00:00+08:00</published><updated>2017-05-11T00:00:00+08:00</updated><author><name>40423146</name></author><id>tag:,2017-05-11:./2017spring-cd-W12.html</id><summary type="html">&lt;p&gt;三種正齒輪嚙合&lt;/p&gt;
+
 
 &lt;h2&gt;協同產品設計實習課程 第十二週&lt;/h2&gt;
 &lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
