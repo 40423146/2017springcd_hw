@@ -33,7 +33,7 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170309180631.1"><vh>快捷鍵</vh>
@@ -840,11 +840,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="yen.20170108171733.15">## 2017Spring Cd 協同產品設計實習
+<t tx="yen.20170108171733.15">## 2017Spring 協同產品設計實習
 
 ### 虎科大機械設計工程系
 
-### 40423146 廖祈安 
+### 40423146 
 
 &lt;small&gt;
 Created by [2017Springcd](http://mde.tw/2017springcd/blog/)
