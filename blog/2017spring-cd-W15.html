@@ -457,13 +457,20 @@ class Spur(object):
 canvas = doc['onegear3']
 ctx = canvas.getContext("2d")
 x = (canvas.width)/2
-y = (canvas.height)/2
-r = 250
+y = (canvas.height)/2+2400
+r = 8*(canvas.height/2)
 # 齒數
-n = 46
+n = 23
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
+
+ctx.beginPath() 
+ctx.lineWidth="3"
+ctx.strokeStyle="red"
+ctx.moveTo(0,600) 
+ctx.lineTo(800,600) 
+ctx.stroke()
 
 ctx.beginPath()
 ctx.fillStyle = "   #2894FF"
