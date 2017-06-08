@@ -157,19 +157,17 @@
 </v>
 </v>
 <v t="leo.20170608113957.1"><vh>20170601第十五週</vh>
-<v t="leo.20170608113957.2" a="E"><vh>內容</vh>
-<v t="leo.20170608114301.1" a="E"><vh>內容</vh>
-<v t="leo.20170608114301.2"><vh>大綱</vh></v>
+<v t="leo.20170608114835.1" a="E"><vh>內容</vh>
+<v t="leo.20170608114835.2"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170608114318.1" a="E"><vh>內容</vh>
-<v t="leo.20170608114318.2"><vh>大綱</vh></v>
+<v t="leo.20170608114845.1" a="E"><vh>內容</vh>
+<v t="leo.20170608114845.2"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170608114349.1" a="E"><vh>內容</vh>
-<v t="leo.20170608114349.2"><vh>大綱</vh></v>
+<v t="leo.20170608114857.1" a="E"><vh>內容</vh>
+<v t="leo.20170608114857.2"><vh>大綱</vh></v>
 </v>
-<v t="leo.20170608114432.1" a="E"><vh>內容</vh>
-<v t="leo.20170608114432.2"><vh>大綱</vh></v>
-</v>
+<v t="leo.20170608114900.1" a="E"><vh>內容</vh>
+<v t="leo.20170608114900.2"><vh>大綱</vh></v>
 </v>
 </v>
 <v t="leo.20170608114016.1"><vh>20170608第十六週</vh>
@@ -700,17 +698,6 @@ V-rep 進行運動模擬</t>
 <t tx="leo.20170608113957.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170608113957.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
 <t tx="leo.20170608114016.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -727,7 +714,7 @@ V-rep 進行運動模擬</t>
 </t>
 <t tx="leo.20170608114016.3">#第十六週上課筆記
 </t>
-<t tx="leo.20170608114301.1">&lt;section data-markdown&gt;
+<t tx="leo.20170608114835.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -738,10 +725,10 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170608114301.2">#第十六週上課筆記
+<t tx="leo.20170608114835.2">#第十六週上課筆記
 請以 W15 練習為網誌標題
 </t>
-<t tx="leo.20170608114318.1">&lt;section data-markdown&gt;
+<t tx="leo.20170608114845.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -752,8 +739,9 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170608114318.2">#一、以800x600 為畫布大小, 在畫布正中央畫一個半徑為 250 畫素, 壓力角 20, 齒數為 36 齒, 且只有上半齒形的漸開線正齒輪輪廓</t>
-<t tx="leo.20170608114349.1">&lt;section data-markdown&gt;
+<t tx="leo.20170608114845.2">一、以800X600 為畫布大小, 在畫布正中央畫一個半徑為 250 畫素, 壓力角 20, 齒數為 36 齒, 且只有上半齒形的漸開線正齒輪輪廓。
+</t>
+<t tx="leo.20170608114857.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -764,8 +752,8 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170608114349.2">#二、第二個 800x600 的畫布, 請畫出只有一齒輪廓, 且充滿畫布 80% 範圍的正齒輪, 且該齒輪廓下方水平線, 連接兩端齒根圓點交的直線以紅色繪製, 且在齒輪下方以藍色字元寫上自己的學號</t>
-<t tx="leo.20170608114432.1">&lt;section data-markdown&gt;
+<t tx="leo.20170608114857.2">二、第二個 800x600 的畫布, 請畫出只有一齒輪廓, 且充滿畫布 80% 範圍的正齒輪, 且該齒輪廓下方水平線, 連接兩端齒根圓點交的直線以紅色繪製, 且在齒輪下方以藍色字元寫上自己的學號。</t>
+<t tx="leo.20170608114900.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -776,7 +764,7 @@ V-rep 進行運動模擬</t>
 
 						
 </t>
-<t tx="leo.20170608114432.2">#。三、由最右邊齒數 16 齒開始囓合, 依序增加 2 齒, 當排至平面四齒囓合後, 第五位組員則以垂直方向向下囓合兩個齒輪後, 轉由右至左水平排列</t>
+<t tx="leo.20170608114900.2">三、由最右邊齒數 16 齒開始囓合, 依序增加 2 齒, 當排至平面四齒囓合後, 第五位組員則以垂直方向向下囓合兩個齒輪後, 轉由右至左水平排列。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
