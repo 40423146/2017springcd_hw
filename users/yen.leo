@@ -178,6 +178,14 @@
 <v t="leo.20170627110326.2"><vh>大綱</vh></v>
 </v>
 </v>
+<v t="leo.20170627224650.1"><vh>20170622第十八週</vh>
+<v t="leo.20170627224650.2" a="E"><vh>內容</vh>
+<v t="leo.20170627224650.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20170627224650.4" a="E"><vh>內容</vh>
+<v t="leo.20170627224650.5"><vh>大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -198,7 +206,8 @@
 <v t="leo.20170511105654.1"><vh>@edit 20170511.md</vh></v>
 <v t="leo.20170601085910.1"><vh>@edit 20170601.md</vh></v>
 <v t="leo.20170608114035.1"><vh>@edit 20170615.md</vh></v>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="leo.20170627222003.1"><vh>@edit 20170622.md</vh></v>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -780,6 +789,34 @@ V-rep 進行運動模擬</t>
 						
 </t>
 <t tx="leo.20170627110326.2">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YBh9bfcbJZ0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170627224650.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170627224650.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170627224650.3">#行走機構模擬
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CwhQCBxiv4A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170627224650.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170627224650.5">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sVeLLyMRDws" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
